@@ -4,6 +4,7 @@
   * `npm init -y`
   * `npm i -D jest eslint supertest nodemon`
   * `npm i express mongoose dotenv`
+  * `install mongodb`
   * create scripts (pretest, test, test:watch, start, start:watch)
 * create `app.js`
   * add middleware
